@@ -21,3 +21,11 @@ for their pet.
 However here are more images of the application working
 
 ![image](https://github.com/ItzKirxn/TamagotchiApp/assets/164011767/a175e132-1781-47fe-b963-affbe16f70d7)  ![image](https://github.com/ItzKirxn/TamagotchiApp/assets/164011767/4fdd0d70-ebd3-4818-949e-364abe339cb2)
+
+## References
+Kotlin - Open a New Activity with a Button Click in Android Studio | Kotlin | 2021 |: YouTube Video (https://youtu.be/2gljhNFKimk?si=V2HTn2HmnKoEl28w)
+Flixier: https://editor.flixier.com/projects/68617eba-986c-f9c7-9408-d485c6518a57 
+CapCut: https://www.capcut.com/editor?from_page=work_space&enter_from=project&position=my_draft&__action_from=my_draft&__from_page=work_space&scenario=custom
+
+## Youtube link 
+https://youtu.be/hILyNMXjC-4
